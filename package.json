@@ -1,0 +1,11 @@
+{
+  "name": "DesignPattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OhWonjae/DesignPattern.git",
+  "author": "ohwonjae <hdnjswo5000@douzone.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
